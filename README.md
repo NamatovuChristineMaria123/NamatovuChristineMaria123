@@ -22,7 +22,7 @@ What I’m Working On
 
 
 Get in Touch
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- LinkedIn: https://www.linkedin.com/in/christine-namatovu-4414272b2/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B7GKLsx2MRbKfU%2FXJpTuMpw%3D%3D
 - Email: christinenamatovu083@gmail.com
 
 
