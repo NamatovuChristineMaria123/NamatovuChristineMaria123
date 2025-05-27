@@ -5,18 +5,6 @@
 I'm a passionate software engineer dedicated to building <strong>visually appealing</strong>, <strong>interactive</strong>, and <strong>responsive</strong> web interfaces. With a keen eye for design and a strong grasp of modern frontend technologies, I strive to bridge the gap between <em>beautiful design</em> and <em>clean code</em>.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NamatovuChristinemaria123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NamatovuChristinemaria123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamatovuChristinemaria123&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🚀 Tech Stack
