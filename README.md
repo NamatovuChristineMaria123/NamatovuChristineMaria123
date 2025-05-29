@@ -13,7 +13,7 @@ I'm a passionate software engineer dedicated to building <strong>visually appeal
 
 ### 🚀 Tech Stack
 
-- **Languages**: HTML5 · CSS3 · JavaScript · PHP · Python  
+- **Languages**: HTML5 · CSS3 · JavaScript · PHP · Python 
 - **Frameworks/Libraries**: Tailwind CSS · Bootstrap · Laravel  
 - **Design Tools**: Figma · Adobe XD  
 - **Version Control**: Git & GitHub  
