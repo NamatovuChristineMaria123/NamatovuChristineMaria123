@@ -1,9 +1,11 @@
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,tailwind,bootstrap,laravel,figma,xd,git,github" />
+</p>
 <h1 align="center">Hi there, I'm Namatovu Christine Maria 👋</h1>
 <h3 align="center">Frontend Developer | UI Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-I'm a passionate software engineer dedicated to building <strong>visually appealing</strong>, <strong>interactive</strong>, and <strong>responsive</strong> web interfaces. With a keen eye for design and a strong grasp of modern frontend technologies, I strive to bridge the gap between <em>beautiful design</em> and <em>clean code</em>.
-</p>
+I'm a passionate software engineer dedicated to building <strong>visually appealing</strong>, <strong>interactive</strong>, and <strong>responsive</strong> web interfaces. With a keen eye for design and a strong grasp of mode
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamatovuChristinemaria123&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -52,14 +54,7 @@ Click the links below to view some of my recent frontend projects:
 > _“Design is not just what it looks like and feels like. Design is how it works.”_  
 > — **Steve Jobs**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,tailwind,bootstrap,laravel,figma,xd,git,github" />
-</p>
-<h1 align="center">Hi there, I'm Namatovu Christine Maria 👋</h1>
-<h3 align="center">Frontend Developer | UI Enthusiast | Tech Explorer</h3>
-
-<p align="center">
-I'm a passionate software engineer dedicated to building <strong>visually appealing</strong>, <strong>interactive</strong>, and <strong>responsive</strong> web interfaces. With a keen eye for design and a strong grasp of modern frontend technologies, I strive to bridge the gap between <em>beautiful design</em> and <em>clean code</em>.
+rn frontend technologies, I strive to bridge the gap between <em>beautiful design</em> and <em>clean code</em>.
 </p>
 
 ---
