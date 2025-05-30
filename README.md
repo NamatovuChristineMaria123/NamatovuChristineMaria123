@@ -30,9 +30,9 @@ I'm a passionate software engineer dedicated to building <strong>visually appeal
 
 ---
 
-### 🌐 Featured Projects
+### 🌐 My Projects
 
-Here are a few of my recent frontend projects:
+Click the links below to view some of my recent frontend projects:
 
 - 🔗 [Hostel Management System](https://lighthearted-crostata-c2496c.netlify.app/)  
 - 🔗 [Simple Hotel website](https://elegant-platypus-a0f262.netlify.app/)  
