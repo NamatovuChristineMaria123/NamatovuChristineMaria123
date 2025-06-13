@@ -38,7 +38,7 @@ I'm a passionate software engineer dedicated to building <strong>visually appeal
 Click the links below to view some of my recent frontend projects:
 
 - 🔗 [Hostel Management System](https://lighthearted-crostata-c2496c.netlify.app/)  
-- 🔗 [JOSA ALUMNI WEBSITE](https://app.netlify.com/projects/stately-beijinho-85a4fa/)  
+- 🔗 [JOSA ALUMNI WEBSITE](https://cool-marigold-d5b5d1.netlify.app/)  
 - 🔗 [CustoSell E-commerce Platform (Still Under Development)](https://custosell.com/)  
 - 🔗 [CustoSpark](https://rococo-marzipan-53abe8.netlify.app/)  
 
